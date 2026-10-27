@@ -2,7 +2,7 @@
   "stations": [
     {"frequency": 88.1, "name": "HD KLJT", "genre": "St. Louis, MO", "callSign": "KLJT", "branding": "88.1 Worship One", "streamUrl": "https://gcb-live-a.edge.audiocdn.com/10727_96.aac"},
     {"frequency": 88.5, "name": "KMST", "genre": "KWMU Relay", "callSign": "KMST", "branding": "", "streamUrl": ""},
-    {"frequency": 88.7, "name": "HD WSIE", "genre": "St. Louis, MO", "callSign": "WSIE", "branding": "The Sound", "streamUrl": ""},
+    {"frequency": 88.7, "name": "HD WSIE", "genre": "St. Louis, MO", "callSign": "WSIE", "branding": "The Sound", "streamUrl": "http://streaming.siue.edu:8000/wsie"},
     {"frequency": 88.9, "name": "HD KSEF", "genre": "KRCU Relay", "callSign": "KSEF-FM", "branding": "KRCU Radio", "streamUrl": ""},
     {"frequency": 89.1, "name": "HD1 KCLC", "genre": "St. Louis, MO", "callSign": "KCLC", "branding": "89.1 KCLC", "streamUrl": ""},
     {"frequency": 89.1, "name": "HD2 KCLC", "genre": "St. Louis, MO", "callSign": "KCLC", "branding": "The Experience", "streamUrl": ""},
