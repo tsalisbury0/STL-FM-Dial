@@ -712,7 +712,7 @@
       "slogan": "The Classic Rock Station",
       "disableMetadata": false,
       "streamUrl": "https://ice.wbcengineering.com:8106/stream",
-      "reverseMetadata": true,
+      "reverseMetadata": false,
       "useSeparateArtistTitle": false
     },
     {
