@@ -957,7 +957,7 @@
       "branding": "",
       "stationName": "105.3 KZNN",
       "slogan": "The Country Superstation",
-      "disableMetadata": true,
+      "disableMetadata": false,
       "streamUrl": "https://ice5.securenetsystems.net/KZNNFM",
       "reverseMetadata": false,
       "useSeparateArtistTitle": false
