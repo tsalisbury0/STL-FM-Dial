@@ -452,7 +452,7 @@
       "slogan": "St. Louis' Best Mix of R&B and Throwback Jams",
       "disableMetadata": false,
       "streamUrl": "https://ice25.securenetsystems.net/FOXY1069",
-      "reverseMetadata": false,
+      "reverseMetadata": true,
       "useSeparateArtistTitle": false
     },
     {
@@ -1050,7 +1050,7 @@
       "slogan": "St. Louis' Best Mix of R&B and Throwback Jams",
       "disableMetadata": false,
       "streamUrl": "https://ice25.securenetsystems.net/FOXY1069",
-      "reverseMetadata": false,
+      "reverseMetadata": true,
       "useSeparateArtistTitle": false
     },
     {
