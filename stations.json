@@ -802,7 +802,7 @@
       "stationName": "102.5 KEZK",
       "slogan": "Playing all your favorites of '80s and today!",
       "disableMetadata": false,
-      "streamUrl": "https://live.amperwave.net/manifest/audacy-kezkfmaac-hlsc.m3u8?preroll=false",
+      "streamUrl": "https://live.amperwave.net/direct/audacy-kezkfmaac-imc?preroll=false",
       "reverseMetadata": false,
       "useSeparateArtistTitle": true
     },
