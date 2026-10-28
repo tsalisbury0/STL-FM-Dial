@@ -711,7 +711,7 @@
       "stationName": "100.7 KGMO",
       "slogan": "The Classic Rock Station",
       "disableMetadata": false,
-      "streamUrl": "https://ice102.wbcstreaming.com/listen/kgmo/aac",
+      "streamUrl": "https://ice.wbcengineering.com:8106/stream",
       "reverseMetadata": true,
       "useSeparateArtistTitle": false
     },
