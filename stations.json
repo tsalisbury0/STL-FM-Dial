@@ -804,7 +804,7 @@
       "disableMetadata": false,
       "streamUrl": "https://live.amperwave.net/direct/audacy-kezkfmaac-imc?preroll=false",
       "reverseMetadata": false,
-      "useSeparateArtistTitle": true
+      "useSeparateArtistTitle": false
     },
     {
       "frequency": 102.5,
