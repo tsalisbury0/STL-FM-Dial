@@ -477,7 +477,7 @@
       "stationName": "96.3 R&B",
       "slogan": "The STL's Best R&B from the 80's, 90's & 2000's!",
       "disableMetadata": false,
-      "streamUrl": "https://live.amperwave.net/manifest/audacy-wfunfmaac-hlsc.m3u8?preroll=false",
+      "streamUrl": "https://live.amperwave.net/direct/audacy-wfunfmaac-imc?preroll=false",
       "reverseMetadata": false,
       "useSeparateArtistTitle": true
     },
@@ -490,7 +490,7 @@
       "stationName": "Classic 107.3",
       "slogan": "The Voice for the Arts in St. Louis",
       "disableMetadata": false,
-      "streamUrl": "https://live.amperwave.net/manifest/classic1073-wfunhd2aac-hlsc.m3u8?preroll=false",
+      "streamUrl": "https://live.amperwave.net/direct/classic1073-wfunhd2aac-imc?preroll=false",
       "reverseMetadata": false,
       "useSeparateArtistTitle": true
     },
@@ -529,7 +529,7 @@
       "stationName": "97.1 FM Talk",
       "slogan": "Real Opinion, Real Talk",
       "disableMetadata": true,
-      "streamUrl": "https://live.amperwave.net/manifest/audacy-kftkfmaac-hlsc.m3u8?preroll=false",
+      "streamUrl": "https://live.amperwave.net/direct/audacy-kftkfmaac-imc?preroll=false",
       "reverseMetadata": false,
       "useSeparateArtistTitle": false
     },
@@ -555,9 +555,9 @@
       "stationName": "Y98 St. Louis",
       "slogan": "More Music. Better Variety",
       "disableMetadata": false,
-      "streamUrl": "https://live.amperwave.net/manifest/audacy-kykyfmaac-hlsc.m3u8?preroll=false",
+      "streamUrl": "https://live.amperwave.net/direct/audacy-kykyfmaac-imc?preroll=false",
       "reverseMetadata": false,
-      "useSeparateArtistTitle": true
+      "useSeparateArtistTitle": false
     },
     {
       "frequency": 98.5,
@@ -581,7 +581,7 @@
       "stationName": "Hot 98.7",
       "slogan": "The STL's #1 for Hip Hop and R&B",
       "disableMetadata": false,
-      "streamUrl": "https://live.amperwave.net/manifest/audacy-kezkhd2aac-hlsc.m3u8?preroll=false",
+      "streamUrl": "https://live.amperwave.net/direct/audacy-kezkhd2aac-imc?preroll=false",
       "reverseMetadata": false,
       "useSeparateArtistTitle": false
     },
@@ -815,9 +815,9 @@
       "stationName": "Hot 98.7",
       "slogan": "The STL's #1 for Hip Hop and R&B",
       "disableMetadata": false,
-      "streamUrl": "https://live.amperwave.net/manifest/audacy-kezkhd2aac-hlsc.m3u8?preroll=false",
+      "streamUrl": "https://live.amperwave.net/direct/audacy-kezkhd2aac-imc?preroll=false",
       "reverseMetadata": false,
-      "useSeparateArtistTitle": true
+      "useSeparateArtistTitle": false
     },
     {
       "frequency": 102.5,
@@ -828,9 +828,9 @@
       "stationName": "Channel Q",
       "slogan": "Giving Everyone a Voice",
       "disableMetadata": false,
-      "streamUrl": "https://live.amperwave.net/manifest/audacy-knxhd2aac-hlsc.m3u8",
+      "streamUrl": "https://live.amperwave.net/direct/audacy-knxhd2aac-imc?preroll=false",
       "reverseMetadata": false,
-      "useSeparateArtistTitle": true
+      "useSeparateArtistTitle": false
     },
     {
       "frequency": 102.9,
@@ -893,7 +893,7 @@
       "stationName": "104.1 KMOX",
       "slogan": "The Voice of St. Louis",
       "disableMetadata": true,
-      "streamUrl": "https://live.amperwave.net/manifest/audacy-kmoxfmaac-hlsc.m3u8?preroll=false",
+      "streamUrl": "https://live.amperwave.net/direct/audacy-kmoxfmaac-imc?preroll=false",
       "reverseMetadata": false,
       "useSeparateArtistTitle": false
     },
