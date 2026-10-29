@@ -1114,7 +1114,7 @@
       "stationName": "Y107",
       "slogan": "#1 Hit Music Station",
       "disableMetadata": false,
-      "streamUrl": "https://ais-sa1.streamon.fm/7399_48k.aac/playlist.m3u8",
+      "streamUrl": "https://ais-sa1.streamon.fm/7399_48k.aac",
       "reverseMetadata": false,
       "useSeparateArtistTitle": false
     },
