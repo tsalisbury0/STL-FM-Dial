@@ -552,7 +552,7 @@
       "stationName": "96.3 R&B",
       "slogan": "The STL's Best R&B from the 80's, 90's & 2000's!",
       "disableMetadata": false,
-      "streamUrl": "https://live.amperwave.net/direct/audacy-wfunfmaac-imc?preroll=0",
+      "streamUrl": "https://live.amperwave.net/direct/audacy-wfunfmaac-imc?p=0",
       "reverseMetadata": false,
       "useSeparateArtistTitle": false
     },
@@ -565,7 +565,7 @@
       "stationName": "Classic 107.3",
       "slogan": "The Voice for the Arts in St. Louis",
       "disableMetadata": false,
-      "streamUrl": "https://live.amperwave.net/direct/classic1073-wfunhd2aac-imc?preroll=0",
+      "streamUrl": "https://live.amperwave.net/direct/classic1073-wfunhd2aac-imc?p=0",
       "reverseMetadata": false,
       "useSeparateArtistTitle": false
     },
@@ -604,7 +604,7 @@
       "stationName": "97.1 FM Talk",
       "slogan": "Real Opinion, Real Talk",
       "disableMetadata": true,
-      "streamUrl": "https://live.amperwave.net/direct/audacy-kftkfmaac-imc?preroll=0",
+      "streamUrl": "https://live.amperwave.net/direct/audacy-kftkfmaac-imc?p=0",
       "reverseMetadata": false,
       "useSeparateArtistTitle": false
     },
@@ -630,7 +630,7 @@
       "stationName": "Y98 St. Louis",
       "slogan": "More Music. Better Variety",
       "disableMetadata": false,
-      "streamUrl": "https://live.amperwave.net/direct/audacy-kykyfmaac-imc?preroll=0",
+      "streamUrl": "https://live.amperwave.net/direct/audacy-kykyfmaac-imc?p=0",
       "reverseMetadata": false,
       "useSeparateArtistTitle": false
     },
@@ -643,7 +643,7 @@
       "stationName": "J98 The Boot",
       "slogan": "Farmington's Kickin' Country",
       "disableMetadata": false,
-      "streamUrl": "https://live.amperwave.net/direct/alphamidwest-ktjjfmaac-ibc2?preroll=0",
+      "streamUrl": "https://live.amperwave.net/direct/alphamidwest-ktjjfmaac-ibc2?p=0",
       "reverseMetadata": false,
       "useSeparateArtistTitle": false
     },
@@ -656,7 +656,7 @@
       "stationName": "Hot 98.7",
       "slogan": "The STL's #1 for Hip Hop and R&B",
       "disableMetadata": false,
-      "streamUrl": "https://live.amperwave.net/direct/audacy-kezkhd2aac-imc?preroll=0",
+      "streamUrl": "https://live.amperwave.net/direct/audacy-kezkhd2aac-imc?p=0",
       "reverseMetadata": false,
       "useSeparateArtistTitle": false
     },
@@ -878,7 +878,7 @@
       "stationName": "102.5 KEZK",
       "slogan": "Playing all your favorites of '80s and today!",
       "disableMetadata": false,
-      "streamUrl": "https://live.amperwave.net/direct/audacy-kezkfmaac-imc?preroll=0",
+      "streamUrl": "https://live.amperwave.net/direct/audacy-kezkfmaac-imc?p=0",
       "reverseMetadata": false,
       "useSeparateArtistTitle": false
     },
@@ -891,7 +891,7 @@
       "stationName": "Hot 98.7",
       "slogan": "The STL's #1 for Hip Hop and R&B",
       "disableMetadata": false,
-      "streamUrl": "https://live.amperwave.net/direct/audacy-kezkhd2aac-imc?preroll=0",
+      "streamUrl": "https://live.amperwave.net/direct/audacy-kezkhd2aac-imc?p=0",
       "reverseMetadata": false,
       "useSeparateArtistTitle": false
     },
@@ -904,7 +904,7 @@
       "stationName": "Channel Q",
       "slogan": "Giving Everyone a Voice",
       "disableMetadata": false,
-      "streamUrl": "https://live.amperwave.net/direct/audacy-knxhd2aac-imc?preroll=0",
+      "streamUrl": "https://live.amperwave.net/direct/audacy-knxhd2aac-imc?p=0",
       "reverseMetadata": false,
       "useSeparateArtistTitle": false
     },
@@ -969,7 +969,7 @@
       "stationName": "104.1 KMOX",
       "slogan": "The Voice of St. Louis",
       "disableMetadata": true,
-      "streamUrl": "https://live.amperwave.net/direct/audacy-kmoxfmaac-imc?preroll=0",
+      "streamUrl": "https://live.amperwave.net/direct/audacy-kmoxfmaac-imc?p=0",
       "reverseMetadata": false,
       "useSeparateArtistTitle": false
     },
@@ -1153,7 +1153,7 @@
       "stationName": "Classic 107.3",
       "slogan": "The Voice for the Arts in St. Louis",
       "disableMetadata": false,
-      "streamUrl": "https://live.amperwave.net/direct/classic1073-wfunhd2aac-imc?preroll=0",
+      "streamUrl": "https://live.amperwave.net/direct/classic1073-wfunhd2aac-imc?p=0",
       "reverseMetadata": false,
       "useSeparateArtistTitle": false
     },
