@@ -983,6 +983,7 @@
       "slogan": "The Parklands Classic Hits Station",
       "disableMetadata": false,
       "streamUrl": "https://ice24.securenetsystems.net/KDBB",
+      "metadataXmlUrl": "https://streamdb9web.securenetsystems.net/player_status_update/KDBB_history.xml",
       "reverseMetadata": false,
       "useSeparateArtistTitle": false
     },
