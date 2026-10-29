@@ -1169,6 +1169,19 @@
       "streamUrl": "https://stream.revma.ihrhls.com/zc3949",
       "reverseMetadata": false,
       "useSeparateArtistTitle": true
-    }
+    },
+    {
+      "frequency": 107.9,
+      "name": "KCLQ",
+      "genre": "Lebanon, MO",
+      "callSign": "",
+      "branding": "",
+      "stationName": "107.9 The Coyote",
+      "slogan": "Renegade Radio",
+      "disableMetadata": false,
+      "streamUrl": "https://us2.maindigitalstream.com/ssl/KCLQ",
+      "reverseMetadata": false,
+      "useSeparateArtistTitle": false
+    },
   ]
 }
