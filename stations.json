@@ -854,7 +854,7 @@
       "stationName": "KTUI",
       "slogan": "102.1 KTUI Country Music and Sports Radio",
       "disableMetadata": false,
-      "streamUrl": "",
+      "streamUrl": "http://144.253.82.142:8000/",
       "reverseMetadata": false,
       "useSeparateArtistTitle": false
     },
