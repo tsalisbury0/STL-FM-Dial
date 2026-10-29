@@ -373,7 +373,7 @@
       "stationName": "94.3 Kat Country",
       "slogan": "Mid-Missouris Country Favorites",
       "disableMetadata": false,
-      "streamUrl": "http://ais-sa1.streamon.fm/7400_48k.aac",
+      "streamUrl": "https://ais-sa1.streamon.fm/7400_48k.aac",
       "reverseMetadata": false,
       "useSeparateArtistTitle": false
     },
