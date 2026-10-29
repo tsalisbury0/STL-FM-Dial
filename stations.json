@@ -326,6 +326,58 @@
       "useSeparateArtistTitle": false
     },
     {
+      "frequency": 93.5,
+      "name": "HD1 KRMS",
+      "genre": "Osage Beach, MO",
+      "callSign": "KRMS-FM",
+      "branding": "93.5 Rocks",
+      "stationName": "93.5 Rocks",
+      "slogan": "Classic Rock and More for the Lake of the Ozarks",
+      "disableMetadata": false,
+      "streamUrl": "https://ice8.securenetsystems.net/KMYK",
+      "reverseMetadata": false,
+      "useSeparateArtistTitle": false
+    },
+    {
+      "frequency": 93.5,
+      "name": "HD2 KRMS",
+      "genre": "Osage Beach, MO",
+      "callSign": "KRMS-FM",
+      "branding": "Classic Country 104.9",
+      "stationName": "Classic Country 104.9",
+      "slogan": "We're Bangin The Twang",
+      "disableMetadata": false,
+      "streamUrl": "https://ice10.securenetsystems.net/OZARK",
+      "reverseMetadata": false,
+      "useSeparateArtistTitle": false
+    },
+    {
+      "frequency": 93.5,
+      "name": "HD3 KRMS",
+      "genre": "Osage Beach, MO",
+      "callSign": "KRMS-FM",
+      "branding": "News Talk KRMS",
+      "stationName": "News Talk KRMS",
+      "slogan": "Your News Talk",
+      "disableMetadata": true,
+      "streamUrl": "https://ice8.securenetsystems.net/KRMS",
+      "reverseMetadata": false,
+      "useSeparateArtistTitle": false
+    },
+    {
+      "frequency": 93.5,
+      "name": "HD4 KRMS",
+      "genre": "Osage Beach, MO",
+      "callSign": "KRMS-FM",
+      "branding": "Fox Sports 98.7",
+      "stationName": "Fox Sports 98.7",
+      "slogan": "Classical Music Is More Than Just A Genre",
+      "disableMetadata": true,
+      "streamUrl": "https://ice24.securenetsystems.net/THECOVE",
+      "reverseMetadata": false,
+      "useSeparateArtistTitle": false
+    },
+    {
       "frequency": 93.7,
       "name": "HD1 KSD",
       "genre": "St. Louis, MO",
