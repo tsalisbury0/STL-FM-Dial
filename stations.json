@@ -348,6 +348,7 @@
       "slogan": "We're Bangin The Twang",
       "disableMetadata": false,
       "streamUrl": "https://ice10.securenetsystems.net/OZARK",
+      "metadataXmlUrl": "https://streamdb7web.securenetsystems.net/player_status_update/OZARK_history.xml",
       "reverseMetadata": false,
       "useSeparateArtistTitle": false
     },
@@ -478,6 +479,7 @@
       "slogan": "Your Classic Hits Station",
       "disableMetadata": false,
       "streamUrl": "https://ice23.securenetsystems.net/KXMO",
+      "metadataXmlUrl": "https://streamdb9web.securenetsystems.net/player_status_update/KXMO_history.xml",
       "reverseMetadata": false,
       "useSeparateArtistTitle": false
     },
