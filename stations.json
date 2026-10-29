@@ -365,6 +365,19 @@
       "useSeparateArtistTitle": false
     },
     {
+      "frequency": 94.3,
+      "name": "KATI",
+      "genre": "94.3 Kat Country",
+      "callSign": "",
+      "branding": "",
+      "stationName": "",
+      "slogan": "Mid-Missouris Country Favorites",
+      "disableMetadata": true,
+      "streamUrl": "https://ais-sa1.streamon.fm/7400_48k.aac/playlist.m3u8",
+      "reverseMetadata": false,
+      "useSeparateArtistTitle": false
+    },
+    {
       "frequency": 94.7,
       "name": "HD1 KSHE",
       "genre": "St. Louis, MO",
