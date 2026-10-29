@@ -62,6 +62,7 @@
       "slogan": "Powered By Lindenwood University",
       "disableMetadata": false,
       "streamUrl": "https://ice6.securenetsystems.net/KCLC",
+      "metadataXmlUrl": "https://streamdb3web.securenetsystems.net/player_status_update/KCLC_history.xml",
       "reverseMetadata": false,
       "useSeparateArtistTitle": false
     },
@@ -75,6 +76,7 @@
       "slogan": "Retro Progressive Music",
       "disableMetadata": false,
       "streamUrl": "https://ice6.securenetsystems.net/KCLC2",
+      "metadataXmlUrl": "https://streamdb3web.securenetsystems.net/player_status_update/KCLC2_history.xml",
       "reverseMetadata": false,
       "useSeparateArtistTitle": false
     },
@@ -114,6 +116,7 @@
       "slogan": "Diverse Music For Your Diverse Mind.",
       "disableMetadata": false,
       "streamUrl": "https://ice24.securenetsystems.net/KCFV",
+      "metadataXmlUrl": "https://streamdb9web.securenetsystems.net/player_status_update/KCFV_history.xml",
       "reverseMetadata": false,
       "useSeparateArtistTitle": false
     },
@@ -127,6 +130,7 @@
       "slogan": "A Voice For The Voiceless",
       "disableMetadata": false,
       "streamUrl": "https://ice24.securenetsystems.net/KNLG",
+      "metadataXmlUrl": "https://streamdb8web.securenetsystems.net/player_status_update/KNLG_history.xml",
       "reverseMetadata": false,
       "useSeparateArtistTitle": false
     },
@@ -270,6 +274,7 @@
       "slogan": "The Best Mix Of The Greatest Hits",
       "disableMetadata": false,
       "streamUrl": "https://ice24.securenetsystems.net/MYMIX943",
+      "metadataXmlUrl": "https://streamdb8web.securenetsystems.net/player_status_update/MYMIX943_history.xml",
       "reverseMetadata": false,
       "useSeparateArtistTitle": false
     },
@@ -335,6 +340,7 @@
       "slogan": "Classic Rock and More for the Lake of the Ozarks",
       "disableMetadata": false,
       "streamUrl": "https://ice8.securenetsystems.net/KMYK",
+      "metadataXmlUrl": "https://streamdb4web.securenetsystems.net/player_status_update/KMYK_history.xml",
       "reverseMetadata": false,
       "useSeparateArtistTitle": false
     },
@@ -519,6 +525,7 @@
       "slogan": "St. Louis' Best Mix of R&B and Throwback Jams",
       "disableMetadata": false,
       "streamUrl": "https://ice25.securenetsystems.net/FOXY1069",
+      "metadataXmlUrl": "https://streamdb3web.securenetsystems.net/player_status_update/FOXY1069_history.xml",
       "reverseMetadata": true,
       "useSeparateArtistTitle": false
     },
@@ -532,6 +539,7 @@
       "slogan": "Today's Best Country & The Legends",
       "disableMetadata": false,
       "streamUrl": "https://ice41.securenetsystems.net/KYLS",
+      "metadataXmlUrl": "https://streamdb6web.securenetsystems.net/player_status_update/KYLS_history.xml",
       "reverseMetadata": false,
       "useSeparateArtistTitle": false
     },
@@ -779,6 +787,7 @@
       "slogan": "Legends of Rock",
       "disableMetadata": false,
       "streamUrl": "https://ice24.securenetsystems.net/KFNSFM",
+      "metadataXmlUrl": "https://streamdb3web.securenetsystems.net/player_status_update/KFNSFM_history.xml",
       "reverseMetadata": false,
       "useSeparateArtistTitle": false
     },
@@ -1026,6 +1035,7 @@
       "slogan": "The Country Superstation",
       "disableMetadata": false,
       "streamUrl": "https://ice5.securenetsystems.net/KZNNFM",
+      "metadataXmlUrl": "https://streamdb5web.securenetsystems.net/player_status_update/KZNNFM_history.xml",
       "reverseMetadata": false,
       "useSeparateArtistTitle": false
     },
@@ -1130,6 +1140,7 @@
       "slogan": "The Leadbelt's Rock Leader!",
       "disableMetadata": false,
       "streamUrl": "https://ice10.securenetsystems.net/KLMZ",
+      "metadataXmlUrl": "https://streamdb8web.securenetsystems.net/player_status_update/KLMZ_history.xml",
       "reverseMetadata": false,
       "useSeparateArtistTitle": false
     },
