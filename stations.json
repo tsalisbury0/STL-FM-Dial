@@ -381,6 +381,7 @@
       "slogan": "Christmas Hits for the Lake of the Ozarks!",
       "disableMetadata": false,
       "streamUrl": "https://ice24.securenetsystems.net/THECOVE",
+      "metadataXmlUrl": "https://streamdb9web.securenetsystems.net/player_status_update/THECOVE_history.xml",
       "reverseMetadata": false,
       "useSeparateArtistTitle": false
     },
