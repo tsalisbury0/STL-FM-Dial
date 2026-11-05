@@ -260,9 +260,9 @@
       "stationName": "Second Fiddle",
       "slogan": "Second Fiddle",
       "disableMetadata": false,
-      "streamUrl": "",
+      "streamUrl": "https://stream.revma.ihrhls.com/zc6851?dist=iheart&subscription_type=plus",
       "reverseMetadata": false,
-      "useSeparateArtistTitle": false
+      "useSeparateArtistTitle": true
     },
     {
       "frequency": 92.3,
@@ -394,7 +394,7 @@
       "stationName": "93.7 The Bull",
       "slogan": "#1 For New Country in St. Louis",
       "disableMetadata": false,
-      "streamUrl": "https://stream.revma.ihrhls.com/zc1293",
+      "streamUrl": "https://stream.revma.ihrhls.com/zc1293?dist=iheart&subscription_type=plus",
       "reverseMetadata": false,
       "useSeparateArtistTitle": true
     },
@@ -407,7 +407,7 @@
       "stationName": "TikTok Radio",
       "slogan": "Your For You Page for your ears.",
       "disableMetadata": false,
-      "streamUrl": "https://stream.revma.ihrhls.com/zc11325",
+      "streamUrl": "https://stream.revma.ihrhls.com/zc11325?dist=iheart&subscription_type=plus",
       "reverseMetadata": false,
       "useSeparateArtistTitle": true
     },
@@ -512,9 +512,9 @@
       "stationName": "95.5 Jamz",
       "slogan": "95.5 Jamz",
       "disableMetadata": false,
-      "streamUrl": "",
+      "streamUrl": "https://stream.revma.ihrhls.com/zc7368?dist=iheart&subscription_type=plus",
       "reverseMetadata": false,
-      "useSeparateArtistTitle": false
+      "useSeparateArtistTitle": true
     },
     {
       "frequency": 95.5,
@@ -579,9 +579,9 @@
       "stationName": "WAR Radio",
       "slogan": "WAR Radio",
       "disableMetadata": false,
-      "streamUrl": "",
+      "streamUrl": "https://stream.revma.ihrhls.com/zc7078?dist=iheart&subscription_type=plus",
       "reverseMetadata": false,
-      "useSeparateArtistTitle": false
+      "useSeparateArtistTitle": true
     },
     {
       "frequency": 96.7,
@@ -761,7 +761,7 @@
       "stationName": "100.3 The Beat",
       "slogan": "STL's Hip Hop and R&B",
       "disableMetadata": false,
-      "streamUrl": "https://stream.revma.ihrhls.com/zc1289",
+      "streamUrl": "https://stream.revma.ihrhls.com/zc1289?dist=iheart&subscription_type=plus",
       "reverseMetadata": false,
       "useSeparateArtistTitle": true
     },
@@ -774,7 +774,7 @@
       "stationName": "BIN 103.7",
       "slogan": "Because Truth Matters",
       "disableMetadata": true,
-      "streamUrl": "https://stream.revma.ihrhls.com/zc6641",
+      "streamUrl": "https://stream.revma.ihrhls.com/zc6641?dist=iheart&subscription_type=plus",
       "reverseMetadata": false,
       "useSeparateArtistTitle": false
     },
@@ -813,8 +813,8 @@
       "branding": "ESPN2",
       "stationName": "ESPN2",
       "slogan": "The Worldwide Leader in Sports",
-      "disableMetadata": false,
-      "streamUrl": "",
+      "disableMetadata": true,
+      "streamUrl": "https://live.amperwave.net/direct/espn-network-48",
       "reverseMetadata": false,
       "useSeparateArtistTitle": false
     },
@@ -931,7 +931,7 @@
       "stationName": "103.3 KLOU",
       "slogan": "The Best Variety of the 80s and 90s",
       "disableMetadata": false,
-      "streamUrl": "https://stream.revma.ihrhls.com/zc3463",
+      "streamUrl": "https://stream.revma.ihrhls.com/zc3463?dist=iheart&subscription_type=plus",
       "reverseMetadata": false,
       "useSeparateArtistTitle": true
     },
@@ -944,7 +944,7 @@
       "stationName": "Smooth Jazz",
       "slogan": "Smooth Jazz, Commercial-Free",
       "disableMetadata": false,
-      "streamUrl": "https://stream.revma.ihrhls.com/zc4242",
+      "streamUrl": "https://stream.revma.ihrhls.com/zc4242?dist=iheart&subscription_type=plus",
       "reverseMetadata": false,
       "useSeparateArtistTitle": true
     },
@@ -957,7 +957,7 @@
       "stationName": "BIN 103.7",
       "slogan": "Because Truth Matters",
       "disableMetadata": false,
-      "streamUrl": "https://stream.revma.ihrhls.com/zc6641",
+      "streamUrl": "https://stream.revma.ihrhls.com/zc6641?dist=iheart&subscription_type=plus",
       "reverseMetadata": false,
       "useSeparateArtistTitle": true
     },
@@ -1010,7 +1010,7 @@
       "stationName": "104.9 The Patriot",
       "slogan": "Real Talk",
       "disableMetadata": true,
-      "streamUrl": "https://stream.revma.ihrhls.com/zc1281",
+      "streamUrl": "https://stream.revma.ihrhls.com/zc1281?dist=iheart&subscription_type=plus",
       "reverseMetadata": false,
       "useSeparateArtistTitle": true
     },
@@ -1023,7 +1023,7 @@
       "stationName": "Majic 104.9 HD2",
       "slogan": "Today's R&B and Throwbacks for St. Louis",
       "disableMetadata": false,
-      "streamUrl": "https://stream.revma.ihrhls.com/zc9063",
+      "streamUrl": "https://stream.revma.ihrhls.com/zc9063?dist=iheart&subscription_type=plus",
       "reverseMetadata": false,
       "useSeparateArtistTitle": true
     },
@@ -1115,9 +1115,9 @@
       "stationName": "My Eighties Channel",
       "slogan": "My Eighties Channel",
       "disableMetadata": false,
-      "streamUrl": "",
+      "streamUrl": "https://stream.revma.ihrhls.com/zc5060?dist=iheart&subscription_type=plus",
       "reverseMetadata": false,
-      "useSeparateArtistTitle": false
+      "useSeparateArtistTitle": true
     },
     {
       "frequency": 106.9,
@@ -1168,7 +1168,7 @@
       "stationName": "Z107.7",
       "slogan": "STL's #1 Hit Music Station",
       "disableMetadata": false,
-      "streamUrl": "https://stream.revma.ihrhls.com/zc1297",
+      "streamUrl": "https://stream.revma.ihrhls.com/zc1297?dist=iheart&subscription_type=plus",
       "reverseMetadata": false,
       "useSeparateArtistTitle": true
     },
@@ -1181,7 +1181,7 @@
       "stationName": "Pride Radio St. Louis",
       "slogan": "Our Culture, Our Music",
       "disableMetadata": false,
-      "streamUrl": "https://stream.revma.ihrhls.com/zc3949",
+      "streamUrl": "https://stream.revma.ihrhls.com/zc3949?dist=iheart&subscription_type=plus",
       "reverseMetadata": false,
       "useSeparateArtistTitle": true
     },
